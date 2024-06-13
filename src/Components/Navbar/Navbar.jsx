@@ -61,7 +61,7 @@ const Navbar = () => {
           <Link
             to="campus"
             smooth={true}
-            offset={-260}
+            offset={-200}
             duration={500}>
             Campus
           </Link>

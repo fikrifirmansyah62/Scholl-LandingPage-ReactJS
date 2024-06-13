@@ -67,7 +67,7 @@
   color: rgba(0, 0, 58, 0.8);
 }
 
-@media (max-width: 800px) {
+@media (max-width: 860px) {
   .testimonials {
     padding: 0 40px;
   }
@@ -101,6 +101,6 @@
     font-size: 12px;
   }
   .slider ul {
-    width: 400%;
+    width: 600%;
   }
 }
